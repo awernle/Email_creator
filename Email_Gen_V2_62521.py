@@ -8,8 +8,6 @@ Washington Department of Natural Resources Geological Survey
 Alex Wernle 
 alex.wernle@dnr.wa.gov
 
-Last updated 10/22/2019
-
 @author: awer490
 """
 ##############################################################################
